@@ -22,3 +22,4 @@ Based on the above data insights, cars with years of manufactruing <5 with lower
 
 ## Next steps -
 At the moment, I have used only 3 of the model selection methods, but expanding the scope to additional ML models would help optimize the accuracy% in predicting the price of a car. Also, Further analysis of the data with a broader set could be very beneficial i.e., getting additional source data on used car sales from other venues (outside of used car dealerships) would shed light on current market trends, customer demands, and competitior analysis. 
+### Link to the GitHub repository Pyton Notebook can be found here - https://github.com/Sri-Kasturi/AIML---Practical_Application-2/blob/main/Practical%20Application%20_2_Sri_Kasturi.ipynb
